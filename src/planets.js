@@ -1,7 +1,7 @@
 import * as THREE from "./three.js";
 //import { Scene } from "three";
 import { Noise } from "./perlin.js";
-import { GUI } from "./dat.gui.js";
+
 //import { MathUtils } from "three";
 
 let clock;
